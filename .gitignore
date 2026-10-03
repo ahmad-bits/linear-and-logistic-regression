@@ -1,32 +1,9 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Jupyter Notebook checkpoints
+*.pyc
 .ipynb_checkpoints/
-*/.ipynb_checkpoints/*
-
-# Virtual environments
-venv/
 .venv/
-env/
-ENV/
-env.bak/
-venv.bak/
-
-# Distribution / packaging
-build/
-dist/
-*.egg-info/
-
-# IDE and editor settings
+venv/
 .vscode/
 .idea/
-*.swp
-*.swo
-
-# Operating System files
 .DS_Store
 Thumbs.db
-desktop.ini
